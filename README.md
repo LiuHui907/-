@@ -1,7 +1,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang = "zh-CN">
 <head>
 <meta charset = utf-8 />
-<title>js学习</title>
+<title>js学习练习题</title>
 </head>
 <body>
 
